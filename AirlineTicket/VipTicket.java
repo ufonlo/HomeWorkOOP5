@@ -1,4 +1,4 @@
-package AirlineTicket;
+package airlineTicket;
 
 public class VipTicket extends Ticket {
 	private final Baggage baggage;

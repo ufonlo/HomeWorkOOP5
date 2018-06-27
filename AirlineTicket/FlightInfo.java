@@ -1,4 +1,4 @@
-package AirlineTicket;
+package airlineTicket;
 
 import java.time.LocalTime;
 

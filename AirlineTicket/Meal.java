@@ -1,4 +1,4 @@
-package AirlineTicket;
+package airlineTicket;
 
 public class Meal {
 	private final String mealType;

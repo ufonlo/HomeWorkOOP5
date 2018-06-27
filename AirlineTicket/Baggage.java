@@ -1,4 +1,4 @@
-package AirlineTicket;
+package airlineTicket;
 
 public class Baggage {
 	private final long pricePerItem;
